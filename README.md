@@ -1,2 +1,2 @@
-js-intepreter
+js-interpreter
 =============
